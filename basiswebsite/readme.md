@@ -74,6 +74,6 @@ Het fijne is dat ik nog een deel van mijn code van vorig jaar heb waar ik verder
 **Breakdown-schets(en): 
 uitgeschreven
 hoofdpagina: header - main - nav - li - ul - a - img - section - h1 - img - p - section - h2- h3 - img - section - h2 - img - section - h2 - p - img - section - p - img - img - section h2 - img - p - img - section - h2 - img - section - img - p - img - section - h2 - p - img - img - img - section - h2 - li - ul - img - img -img - footer - li - ul - a 
-<img src="images/breakdown.jpg" alt="breakdownfoto">
+(img/breakdown.jpg)
 
 <!--[-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
